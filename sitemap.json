@@ -1,0 +1,47 @@
+{
+	"sitename" : "Féerie Network",
+	"template" : "feerieNetwork",
+	"domain" : "feerie.net",
+	"map" : {
+		"/" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Bienvenue", "notoc" : true },
+
+		"/articles" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Articles", "notoc" : true },
+		"/articles/les quatres questions" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Les quatres questions"},
+
+		"/news" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News", "notoc" : true },
+		"/news/news - 2021-06-14" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2021-06-14" },
+		"/news/news - 2021-05-13" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2021-05-13" },
+		"/news/news - 2021-03-13" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2021-03-13" },
+		"/news/reunion - 2021-02-02" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Réunion du 2021-02-02" },
+		"/news/news - 2020-10-31" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2020-10-31" },
+		"/news/news - 2020-09-05" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2020-09-05" },
+		"/news/news - 2020-07-19" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2020-07-19" },
+		"/news/news - 2020-05-15" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2020-05-15" },
+		"/news/news - 2020-03-18" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2020-03-18" },
+		"/news/news - 2020-02-02" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2020-02-02" },
+		"/news/news - 2020-01-03" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2020-01-03" },
+		"/news/news - 2019-11-29" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2019-11-29" },
+		"/news/news - 2019-11-01" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2019-11-01" },
+		"/news/news - 2019-09-27" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2019-09-27" },
+		"/news/news - 2019-09-06" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2019-09-06" },
+		"/news/news - 2019-08-11" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2019-08-11" },
+		"/news/news - 2019-07-26" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2019-07-26" },
+		"/news/news - 2019-07-15" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2019-07-15" },
+		"/news/news - 2019-06-28" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2019-06-28" },
+		"/news/news - 2019-06-14" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2019-06-14" },
+		"/news/news - 2019-05-28" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2019-05-28" },
+		"/news/news - 2019-05-17" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2019-05-17" },
+		"/news/news - 2019-05-11" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2019-05-11" },
+		"/news/news - 2019-05-03" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2019-05-03" },
+		"/news/news - 2019-04-19" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2019-04-19" },
+		"/news/news - 2019-04-13" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2019-04-13" },
+		"/news/news - 2019-04-05" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2019-04-05" },
+		"/news/news - 2019-03-29" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2019-03-29" },
+		"/news/news - 2019-03-22" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2019-03-22" },
+		"/news/news - 2019-03-15" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2019-03-15" },
+		"/news/news - 2019-03-08" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2019-03-08" },
+		"/news/news - 2019-03-01" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2019-03-01" },
+
+		"/contact" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Contact"}
+	}
+}
