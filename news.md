@@ -1,13 +1,14 @@
 # News !
 
-## Dernières news (2021-08-10)
+## Dernières news (2021-09-06)
 
-Deux mois se sont écoulés depuis les dernières nouvelles sur *Solaires*, le *Système Féerie* et autres projets associés. C’est le moment de faire le point ! Au programme : publication du module *Solaires* pour *Foundry VTT*, fin du premier test de la mini-campagne *Everrest*, le *Dragon de Callisto* en relecture publique, et une timide progression sur le projet *Troisième Terre*.
+Voici les dernières nouvelles sur *Solaires*, le *Système Féerie* et les autres projets associés. Au programme, quelques avancées sur la mini-campagne *Everrest*, début des travaux sur un module *Foundry VTT* pour le *Système Féerie* et la poursuite des réflexions sur le projet *Troisième Terre*.
 
-[Lire en ligne](/news/news - 2021-08-10)
+[Lire en ligne](/news/news - 2021-09-06)
 
 ## Archives
 
+* [News du 2021-09-06](/news/news - 2021-09-06)
 * [News du 2021-08-10](/news/news - 2021-08-10)
 * [News du 2021-06-14](/news/news - 2021-06-14)
 * [News du 2021-05-13](/news/news - 2021-05-13)
