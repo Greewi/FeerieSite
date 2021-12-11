@@ -1,13 +1,14 @@
 # News !
 
-## Dernières news (2021-09-06)
+## Dernières news (2021-12-11)
 
-Voici les dernières nouvelles sur *Solaires*, le *Système Féerie* et les autres projets associés. Au programme, quelques avancées sur la mini-campagne *Everrest*, début des travaux sur un module *Foundry VTT* pour le *Système Féerie* et la poursuite des réflexions sur le projet *Troisième Terre*.
+Après des mois d’octobre et novembre chargés (avec l’Inktober et le NaNoWriMo), voici le retour du bulletin théoriquement hebdomadaire sur le *Système Féerie*, *Solaires*, le projet *Troisième Terre* et les autres projets associés. Au programme : quelques avancées sur le module *Système Féerie* pour *Foundry VTT*, poursuite des travaux sur le projet *Troisième Terre*, ainsi que quelques mots sur la mini campagne *Everrest* et le nouveau roman.
 
-[Lire en ligne](/news/news - 2021-09-06)
+[Lire en ligne](/news/news - 2021-12-11)
 
 ## Archives
 
+* [News du 2021-12-11](/news/news - 2021-12-11)
 * [News du 2021-09-06](/news/news - 2021-09-06)
 * [News du 2021-08-10](/news/news - 2021-08-10)
 * [News du 2021-06-14](/news/news - 2021-06-14)

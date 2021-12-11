@@ -9,6 +9,7 @@
 		"/articles/les quatres questions" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Les quatres questions"},
 
 		"/news" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News", "notoc" : true },
+		"/news/news - 2021-12-11" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2021-12-11" },
 		"/news/news - 2021-09-06" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2021-09-06" },
 		"/news/news - 2021-08-10" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2021-08-10" },
 		"/news/news - 2021-06-14" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2021-06-14" },
