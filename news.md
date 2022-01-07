@@ -1,13 +1,16 @@
 # News !
 
-## Dernières news (2021-12-11)
+## Dernières news (2022-01-07)
 
-Après des mois d’octobre et novembre chargés (avec l’Inktober et le NaNoWriMo), voici le retour du bulletin théoriquement hebdomadaire sur le *Système Féerie*, *Solaires*, le projet *Troisième Terre* et les autres projets associés. Au programme : quelques avancées sur le module *Système Féerie* pour *Foundry VTT*, poursuite des travaux sur le projet *Troisième Terre*, ainsi que quelques mots sur la mini campagne *Everrest* et le nouveau roman.
+Avant toute chose : bonne année et bonne santé ! Bon, pour ce second point la situation semble quand même toujours aussi mal barrée, mais je vous la souhaite la moins pire possible.
 
-[Lire en ligne](/news/news - 2021-12-11)
+Quoi de neuf en ce début 2022 pour le *Système Féerie*, *Solaires*, le projet *Troisième Terre* et les autres projets associés ? Au programme : la sortie du module FoundryVTT pour le *Système Féerie*, la mise à jour du module pour *Solaires* et le début de travail sur une carte pour le projet *Troisième Terre*.
+
+[Lire en ligne](/news/news - 2022-01-07)
 
 ## Archives
 
+* [News du 2022-01-07](/news/news - 2022-01-07)
 * [News du 2021-12-11](/news/news - 2021-12-11)
 * [News du 2021-09-06](/news/news - 2021-09-06)
 * [News du 2021-08-10](/news/news - 2021-08-10)
