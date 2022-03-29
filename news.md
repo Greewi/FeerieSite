@@ -1,12 +1,10 @@
 # News !
 
-## Dernières news (2022-01-07)
+## Dernières news (2022-03-29)
 
-Avant toute chose : bonne année et bonne santé ! Bon, pour ce second point la situation semble quand même toujours aussi mal barrée, mais je vous la souhaite la moins pire possible.
+Voici presque trois mois que j'ai écrit le dernier billet. Il est temps de faire un point sur les différents projets et d'en tirer le bilan.
 
-Quoi de neuf en ce début 2022 pour le *Système Féerie*, *Solaires*, le projet *Troisième Terre* et les autres projets associés ? Au programme : la sortie du module FoundryVTT pour le *Système Féerie*, la mise à jour du module pour *Solaires* et le début de travail sur une carte pour le projet *Troisième Terre*.
-
-[Lire en ligne](/news/news - 2022-01-07)
+[Lire en ligne](/news/news - 2022-03-29)
 
 ## Archives
 

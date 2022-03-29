@@ -7,8 +7,11 @@
 
 		"/articles" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Articles", "notoc" : true },
 		"/articles/les quatres questions" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Les quatres questions"},
+		"/articles/accessibilite en jdr" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "L'accessibilité en JdR"},
+		"/articles/les enquetes" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Les enquêtes"},
 
 		"/news" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News", "notoc" : true },
+		"/news/news - 2022-03-29" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2022-03-29" },
 		"/news/news - 2022-01-07" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2022-01-07" },
 		"/news/news - 2021-12-11" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2021-12-11" },
 		"/news/news - 2021-09-06" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2021-09-06" },
