@@ -9,6 +9,7 @@
 		"/articles/les quatres questions" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Les quatres questions"},
 		"/articles/accessibilite en jdr" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "L'accessibilité en JdR"},
 		"/articles/les enquetes" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Les enquêtes"},
+		"/articles/pourquoi un systeme de jeu" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Pourquoi un système de jeu ?"},
 
 		"/news" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News", "notoc" : true },
 		"/news/news - 2022-03-29" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2022-03-29" },
