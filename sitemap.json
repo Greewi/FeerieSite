@@ -12,6 +12,7 @@
 		"/articles/pourquoi un systeme de jeu" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Pourquoi un système de jeu ?"},
 
 		"/news" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News", "notoc" : true },
+		"/news/news - 2022-10-03" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2022-10-03" },
 		"/news/news - 2022-03-29" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2022-03-29" },
 		"/news/news - 2022-01-07" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2022-01-07" },
 		"/news/news - 2021-12-11" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "News du 2021-12-11" },
