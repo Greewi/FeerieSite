@@ -23,24 +23,56 @@ Car avant de rentrer dans les détails du système de jeu, il y a une question q
 Pour y répondre, j’ai commencé à écrire un petit cahier des charges, un court document composé des éléments et comportement que j’aimerais avoir dans le jeu. Et tant qu’à faire, autant vous proposer de jeter un œil à ce que j’ai noté pour le moment.
 Ce « cahier des charges » n’est qu’un ensemble plutôt restreint de notes, mais il contient des éléments très important que le système devra prendre en considération. C’est un document de travail qui n’a pas besoin d’être plus rédigé que ça : il ne sera pas jouté dans le livre du jeu (à la limite certains des points pourront faire l’objet d’une note d’intentions) et surtout, il sera amené à changer souvent au fil de l’avancement du projet. Après tout, ce n'est que le premier jet.
 
->> ## Cahier des charges du système pour 3e Terre
+>> ### Cahier des charges du système pour 3e Terre
 >>
+>> **Contrat social :**
+>> * Proposer de conclure un contrat social pour restreindre les trucs crades
+>> 
+>> **Aventures et entreséances :**
+>> * Jeu séparés entre aventures et entreséances
+>> * Aventure = partie normale où les chimères vivent une aventure
+>> * Entreseance = phase asynchrone hors séances où les chimères travaillent sur leur camp, récupère de leurs états et peuvent se développer.
+>> * Objectif des aventures fixées par les joueurs
+>> * Aventures limitées à une session de jeu
+>> 
 >> **Création de personnage :**
 >> * Campagne en format ouvert : création de personnage à la volée très rapide
 >> * Personnages chimères sortie d’usine : très standardisées
 >> * Nouveaux nés : pas de background
->> 
->> Les chimères commencent la partie en sortant de leur caisse de stockage et s’éveillent pour la toute première fois. Elles n’ont de fait aucune existence passée. Les personnalisations initiales dépendent juste du sous-modèle que leur propriétaire ont choisi. Idéalement, la création de personnage pourrait ressembler à un formulaire de commande.
+>> * Nouveaux personnages doivent être utiles et pouvoir contribuer aux aventures
+>> * ❔ Création sous forme d'un formulaire de commande ?
 >> 
 >> **Progression des personnages :**
->> * Permettre aux nouveaux d’être utile : progression horizontale
->> * Développement libre (notamment pas de classes prédéfinies)
->> * Gestion des modifications corporelles (c’est un jeu de SF où la transformation par la technologie est un thème)
+>> * Équippement évolue globalement avec la civilisation
+>> * Pas de classe de personnage
+>> * Après une aventure, les chimères ont la possibilité de progresser durant l'interséance suivante.
+>> * Pas de chimère d'intérieur ou d'extérieur uniquement (en gros toutes les chimères doivent avoir une utilisé dans le camp et une utilite en aventure)
+>> * Système de modification bioméchaniques. Accès aux modifications relativement simple, mais demandant à faire des choix.
 >> 
->> Dans ce jeu, les chimères vont recréer une civilisation : elles vont donc (ré)inventer leurs métiers outils et structure sociale. Pour ne pas pré-conditionner ces inventions, il est impératif de pouvoir développer les personnages librement, peut être avec une méthode freeform. De plus, la contrainte de format ouvert impose une limitation de la puissance (pas nécessairement militaire d’ailleurs) relative des différentes chimères pour permettre aux nouvelles d’être utiles.
+>> **Le camps :**
+>> * Un refuge qui contraste avec la rigueur de la jungle
+>> * Les chimères blessées durants les aventures y recupèrent complètement durant un entreseance
+>> * Camp avec une immunité scénaristique
+>> * Appartient à toutes les chimères
+>> 
+>> **Progression de la civilisation :**
+>> * Choix de la progression par les joueurs
+>> * Arbre technologique lâche (plusieurs façons de progresser dessus)
+>> * Construction et développement d'un village
+>> * Gestion des ressources, certaines nécessite des expéditions dans la jungle (aventures)
+>> * Éviter les schismes (les personnages doivent rester unis)
 >> 
 >> **Résolution des actions :**
->> * Personnages qui triomphes par leur astuce et inventivité : il faut favoriser les actions astucieuses et inventives
->> * Réduire la peur de l’échec : les chimères devraient souvent réussir et les échecs ne devraient pas donner sur des gameover. La mort devrait être incroyablement rare.
+>> * Permettre au MJ de gérer n'importe quelle action facilement (choix de carac, difficulté, conséquences...)
+>> * Essayer d'inciter le joueur à penser action plutôt que système de résolution
+>> * Permettre aux nouveaux personnages d'être utiles
+>> * Gérer les actions à plusieurs simplement, avec un impact de l'action de tous les participants
+>> * Les chimères ne sont pas des super héroïnes mais elles triomphent par le nombre
+>> * ❔ Possibilité d'aider à finir une tache en cas "d'échec" d'une autre chimère.
+>> * ❔ Notion de prise risque ? (Pouvoir faire plus en réduisant ses chances de succès)
+>> * ❔ Notion de sacrifice ? (Payer de sa santé pour augmenter ses chances)
 >> 
->> Les chimères sont des créatures initialement insignifiantes dans un monde plus grand que nature. Il ne faut pas que le système les incite à résoudre tous leurs problèmes par des méthodes de force brute. En fait, je veux même les inciter à résoudre leurs problèmes de façon astucieuse. De la même façon, comme c’est un jeu qui veut essayer de favoriser l’inventivité et l’exploration, il vaut mieux éviter de « punir » les joueurs qui vont dans ce sens et la peur d’échouer ou d’avoir affaire à des conséquences importantes en cas d’échec risquerait d’être un frein important aux initiatives.
+>> **Etat des personnages :**
+>> * Modélisation par des états simples
+>> * Les états doivent avoir un impact négatif
+>> * Les états sont complètement soignés lors des interséances
