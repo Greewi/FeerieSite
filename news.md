@@ -1,15 +1,15 @@
 # News !
 
-## Dernières news (2022-10-03)
+## Dernières news (2023-01-06)
 
-Après sept mois de silence, revoici le billet traitant des nouvelles autour des projets de Féerie.net, le système Féerie, Solaire et le projet 3e Terre. Sept mois, l’ironie voulait à l’origine que ce soit un billet hebdomadaire. Mais ce délai traduit malheureusement le ralentissement général autour de mes projets.
+Bonne année tout le monde ! Les travaux reprennent sur *Solaires* et il est temps de faire le point sur les avancées de ces derniers mois. Au programme : nouveau moteur de recherche sur le site, réparation du générateur de PDF, prototype de création de personnage, mise en ligne du roman *Le Dragon de Callisto*.
 
-Ce billet sera donc plutôt court. Au programme, des avancées sur le système de jeu pour le projet 3e Terre, un prototype de création de personnage et même une illustration.
-
-[Lire en ligne](/news/news - 2022-10-03)
+[Lire en ligne](/news/news - 2023-01-06)
 
 ## Archives
 
+* [News du 2023-01-06](/news/news - 2023-01-06)
+* [Réunion du 2022-11-20](/news/reunion - 2022-11-20)
 * [News du 2022-03-29](/news/news - 2022-03-29)
 * [News du 2022-01-07](/news/news - 2022-01-07)
 * [News du 2021-12-11](/news/news - 2021-12-11)
