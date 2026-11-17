@@ -1,13 +1,18 @@
 # News !
 
-## Dernières news (2023-01-06)
+## Dernières news (2026-01-06)
 
-Bonne année tout le monde ! Les travaux reprennent sur *Solaires* et il est temps de faire le point sur les avancées de ces derniers mois. Au programme : nouveau moteur de recherche sur le site, réparation du générateur de PDF, prototype de création de personnage, mise en ligne du roman *Le Dragon de Callisto*.
+Trois ans... Déjà trois ans depuis les dernières nouvelles et pourtant il s'en est passé des choses.
 
-[Lire en ligne](/news/news - 2023-01-06)
+Mais avant de refaire l'histoire, je vous souhaite, à toutes et à tous, une bonne année et une bonne santé ! Je vous souhaite toute l'énergie et le courage pour affronter ce monde dont l'avenir semble toujours aussi incertain. On en aura tous bien besoin.
+
+Mais laissons les festivités et les faits moins festifs de ce monde de côté et faisons le point sur ce qui s'est passé ces dernières années et les projets en cours.
+
+[Lire en ligne](/news/news - 2026-01-06)
 
 ## Archives
 
+* [News du 2026-01-06](/news/news - 2026-01-06)
 * [News du 2023-01-06](/news/news - 2023-01-06)
 * [Réunion du 2022-11-20](/news/reunion - 2022-11-20)
 * [News du 2022-03-29](/news/news - 2022-03-29)
